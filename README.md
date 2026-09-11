@@ -1,6 +1,6 @@
 # NOVA — Sales & Support Enablement Prototype
 
-▶ [View the live prototype](https://williamchen-pm.github.io/Nova-MVP-Enablement/)
+▶ [View the live prototype](https://williamchen-pm.github.io/nova-mvp-enablement/)
 
 An interactive enablement walkthrough for the MVP release of an AI assistant embedded in a multi-tenant security management platform. Built for the people who have to explain it: sales engineers, partner-facing sellers, and support.
 
